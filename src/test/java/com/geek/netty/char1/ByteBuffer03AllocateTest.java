@@ -7,7 +7,7 @@ import java.nio.ByteBuffer;
  * @date: 2021/5/13 15:37
  * @description:
  */
-public class ByteBufferAllocateTest {
+public class ByteBuffer03AllocateTest {
     public static void main(String[] args) {
         /**
          * class java.nio.HeapByteBuffer

@@ -11,7 +11,7 @@ import java.nio.ByteBuffer;
  * @description:
  */
 @Slf4j
-public class ByteBufferReadWriteTest {
+public class ByteBuffer02ReadWriteTest {
 
     public static void main(String[] args) {
         ByteBuffer buffer = ByteBuffer.allocate(10);
