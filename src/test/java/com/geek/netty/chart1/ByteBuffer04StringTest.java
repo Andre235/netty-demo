@@ -1,8 +1,7 @@
-package com.geek.netty.char1;
+package com.geek.netty.chart1;
 
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
-import java.util.Arrays;
 
 import static com.geek.netty.ByteBufferUtil.debugAll;
 

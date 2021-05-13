@@ -1,4 +1,4 @@
-package com.geek.netty.char1;
+package com.geek.netty.chart1;
 
 import lombok.extern.slf4j.Slf4j;
 
